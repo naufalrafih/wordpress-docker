@@ -1,4 +1,4 @@
-# worpress-docker
+# wordpress-docker
 
 Step by step:
 1. Run ```docker-compose up -d```
